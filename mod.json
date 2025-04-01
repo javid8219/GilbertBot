@@ -1,0 +1,14 @@
+{
+	"geode": "4.3.1",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "javid8219.gilbertbot",
+	"name": "GilbertBot",
+	"version": "v0.0.1",
+	"developer": "javidQuQ",
+	"description": "GilbertBot is a cutting-edge, AI-powered mod designed to automatically play Geometry Dash, expertly navigating through challenging levels with ease. Whether you're stuck on a tough level or just want to watch Gilbert's flawless jumps and movements, this autoplayer is here to handle the hard work for you.\n With its real-time screen analysis, GilbertBot detects spikes, obstacles, and the player’s position, making split-second decisions to jump, dodge, and ensure survival. The bot calculates the optimal timing for jumps, even predicting obstacles 13 pixels ahead to give you a head start on every jump.\n Built for fun, efficiency, and a bit of friendly AI competition, GilbertBot is a must-have tool for any Geometry Dash enthusiast looking to experience levels in a whole new way!\n Important Note: Please do not abuse this mod for competitions. It’s intended for personal entertainment and exploration of levels, not for unfair advantages in official leaderboards or competitions."
+}
