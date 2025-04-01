@@ -11,10 +11,10 @@
 
 ### Prerequisites
 - **Geometry Dash** should be installed and in windowed mode.
-- You will need **Geode** to run the mod. Follow the setup instructions in the [Geode Documentation](https://docs.geode-sdk.org/getting-started/).
+- You will need **Geode** to run the mod. Follow the setup instructions in the [Geode Documentation](hhttps://geode-sdk.org/install).
 
 ### Steps to Install
-1. Download **GilbertBot** from the [GitHub Releases](https://github.com/your-repo-here/releases) or the [Geode Downloads tab](https://github.com/your-repo-here/releases).
+1. Download **GilbertBot** from the [GitHub Releases](https://github.com/javid8219/GilbertBot) or the [Geode Downloads tab](https://geode-sdk.org/mods).
 2. Follow the Geode setup guide to ensure you have Geode and necessary dependencies installed.
 3. Launch **Geometry Dash** in windowed mode and load the mod.
 
@@ -58,4 +58,4 @@ We welcome contributions! If you would like to help improve **GilbertBot**, feel
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
